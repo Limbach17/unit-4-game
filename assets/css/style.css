@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+ /* #gameboard {
+    display: none;
+} */
+
+button {
+    color: white;
+}
+.crystal {
+    width: 220px;
+    height: 225px;
+    margin: 25px;
+    opacity: 100%;
+    }
+
+#crystal-basket {
+    padding-left: 75px;
+}
